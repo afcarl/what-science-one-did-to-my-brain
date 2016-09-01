@@ -66,19 +66,31 @@ affiliation: MIT
 
 ![Charles: pharmacy](./images/charles.jpg)
 
-# Story 1: Thinking in Scales
+# Where are we now?
+
+- Charles Z.: U Toronto
+- Tiffany T.: Global Development, somewhere in Africa
+- Jacob B.: Twice my schoolmate: UBC & MIT, spoke last year
+- Cindy Y.: U Toronto
+- Mo C.: UC Berkeley
+
+# Story 1: Thinking in Scales, Thinking at Scale
 
 - "If a piece of chalk were to be completely converted to energy, how many days of power would that piece of chalk provide to Vancouver?"
-
-# Story 1: Thinking in Scales
-
 - Do Pokemon height & weight combinations make sense for how they're drawn?
+
+# Story 1: Thinking in Scales, Thinking at Scale
+
+- How much exactly does flu shuffle its genome in the world?
 
 # Story 2: Science as Measurement
 
 - T1 Bamfield
 - T2 project: "Assessment of the antibacterial properties of traditional chinese herbs."
 
-# Story 3: Build Mental Models
+# Story 2: Science as Measurement
 
-- 
+- A biological engineer thinking like a physicist to help physicians and epidemiologists.
+- How much viral drug resistance is out there?
+
+# 
