@@ -77,7 +77,7 @@ affiliation: MIT
 # Story 1: Thinking in Scales, Thinking at Scale
 
 - "If a piece of chalk were to be completely converted to energy, how many days of power would that piece of chalk provide to Vancouver?"
-- Do Pokemon height & weight combinations make sense for how they're drawn?
+- "Do Pokemon height & weight combinations make sense for how they're drawn?"
 
 # Story 1: Thinking in Scales, Thinking at Scale
 
@@ -85,12 +85,16 @@ affiliation: MIT
 
 # Story 2: Science as Measurement
 
-- T1 Bamfield
-- T2 project: "Assessment of the antibacterial properties of traditional chinese herbs."
+- T1 Bamfield: "How long does it take a starfish to flip?"
+- T2 project: "Do traditional chinese herbs have antibacterial properties?"
 
 # Story 2: Science as Measurement
 
 - A biological engineer thinking like a physicist to help physicians and epidemiologists.
 - How much viral drug resistance is out there?
 
-# 
+# Conclusion
+
+- Think in scales, and think at scale.
+- Learn how to measure with precision, and quantify your uncertainty.
+- Have fun, it'll be great, you'll all do fine.
