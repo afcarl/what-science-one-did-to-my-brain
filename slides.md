@@ -68,11 +68,11 @@ affiliation: MIT
 
 # Where are we now?
 
-- Charles Z.: U Toronto
+- Charles Z.: U Toronto, PhD Physics
 - Tiffany T.: Global Development, somewhere in Africa
 - Jacob B.: Twice my schoolmate: UBC & MIT, spoke last year
-- Cindy Y.: U Toronto
-- Mo C.: UC Berkeley
+- Cindy Y.: U Toronto, grad school
+- Mo C.: UC Berkeley, PhD EECS
 
 # Story 1: Thinking in Scales, Thinking at Scale
 
