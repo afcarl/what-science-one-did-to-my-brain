@@ -86,7 +86,7 @@ affiliation: MIT
 # Story 2: Science as Measurement
 
 - T1 Bamfield: "How long does it take a starfish to flip?"
-- T2 project: "Do traditional chinese herbs have antibacterial properties?"
+- T2 project: "Do traditional Chinese herbs have antibacterial properties?"
 
 # Story 2: Science as Measurement
 
