@@ -81,7 +81,7 @@ affiliation: MIT
 
 # Story 1: Thinking in Scales, Thinking at Scale
 
-- How much exactly does flu shuffle its genome in the world?
+- How much exactly does flu shuffle its genome in the world? A lesson in teaching myself computation.
 
 # Story 2: Science as Measurement
 
@@ -90,7 +90,8 @@ affiliation: MIT
 
 # Story 2: Science as Measurement
 
-- A biological engineer thinking like a physicist to help physicians and epidemiologists.
+- Systematically measuring how mutations affect phenotype.
+  - Taking an engineering measurement approach in the life sciences.
 - How much viral drug resistance is out there?
 
 # Conclusion
