@@ -1,5 +1,5 @@
 ---
-title: What Science One did to my brain
+title: What Science One Did to My Brain
 author:
     - name: Eric J. Ma
       affiliation: MIT
@@ -133,13 +133,14 @@ Let's have a taste of the coming year.
 
 # Question
 
-> "According to Einstein's mass-energy equivalence, if a whiteboard marker were to be completely converted to energy, how many days of power would that piece of chalk provide to Vancouver?"
+> "According to Einstein's mass-energy equivalence, if a piece of chalk were to be completely converted to energy, how many days of power would that piece of chalk provide to Vancouver?"
 
 - Pair or triple up.
 - Don't Google the question.
 - Feel free to check online for whatever data you need to assume.
 - When you've got an answer, write it on the whiteboard, expressed in "number of days".
-- Spend 10 minutes on this max. You can AMA.
+- Spend 10 minutes on this. You can AMA.
+- One or two groups tell us their answer.
 
 ---
 
@@ -148,6 +149,7 @@ Let's have a taste of the coming year.
 > Order of magnitude is more than accurate enough.
 
 - Think in scales, thinking at scale.
+-
 - Approximations that answer the right question are better than precisely answering the wrong question.
 
 ---
