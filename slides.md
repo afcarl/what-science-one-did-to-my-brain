@@ -9,7 +9,9 @@ colortheme: wolverine
 
 # Where are these slides?
 
-[http://github.com/ericmjl/what-science-one-did-to-my-brain](http://github.com/ericmjl/what-science-one-did-to-my-brain)
+On GitHub: https://github.com/ericmjl/what-science-one-did-to-my-brain
+
+Short URL: http://goo.gl/pkzv2t
 
 # Poll
 
@@ -170,25 +172,37 @@ colortheme: wolverine
 
 ---
 
+# Pokemon heights and weights
+
+- Go to the following URL: `http://goo.gl/94i0rq`
+- Enter as many height/weight combinations as you have/can.
+
+---
+
+# Live code
+
+
+
+---
+
 # Science as measurement
 
-- T1 Bamfield: Starfish flipping.
-- T2 Measurement: Antimicrobial properties of traditional Chinese herb extracts.
+> - T1 Bamfield: Starfish flipping.
+> - T2 Measurement: Antimicrobial properties of traditional Chinese herb extracts.
 
 ---
 
 # Science as Measurement
 
-- Taking an engineering approach to measurement in the life sciences.
+> - Taking an engineering approach to measurement in the life sciences.
     - Systematically measuring how mutations affect phenotype.
     - Deep learning algorithms to learn mapping from
     - Modelling error in measurement and propagating through phenotype predictions.
-- Thinking at Scale: How much viral drug resistance is out there?
+> - Thinking at Scale: How much viral drug resistance is out there?
 
 ---
 
 # Conclusion
 
-- Think in scales, and think at scale.
-- Learn how to measure with precision, and quantify your uncertainty.
-- Have fun, it'll be great, you'll all do fine.
+- Participate, teach one another, learn from one another.
+-
