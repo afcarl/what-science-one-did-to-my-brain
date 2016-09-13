@@ -21,11 +21,11 @@ colortheme: wolverine
 
 # Science One & Beyond
 
-> - Science One 2006/2007
-> - BSc, UBC Integrated Science 2010
-> - UBC iGEM 2009
-> - Married 2014
-> - PhD, MIT Biological Engineering, expected 2017
+- Science One 2006/2007
+- UBC iGEM 2009
+- BSc, UBC Integrated Science 2010
+- Married 2014
+- PhD, MIT Biological Engineering, expected 2017
 
 ---
 
