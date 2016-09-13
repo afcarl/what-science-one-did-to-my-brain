@@ -7,11 +7,23 @@ theme: CambridgeUS
 colortheme: wolverine
 ---
 
-# Myself & Science One
+# Poll
 
-- Science One 2006/2007
-- UBC Integrated Science 2010
-- MIT Biological Engineering 2017
+- How many are scared you'll fail Science One?
+
+# Poll
+
+- How many are scared bad grades in Science One will cause you to fail in life?
+
+# Science One & Beyond
+
+> - Science One 2006/2007
+> - BSc, UBC Integrated Science 2010
+> - UBC iGEM 2009
+> - Married 2014
+> - PhD, MIT Biological Engineering, expected 2017
+
+---
 
 # Science One 2006/2007
 
