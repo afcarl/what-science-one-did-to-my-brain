@@ -152,7 +152,7 @@ Let's have a taste of the coming year.
 
 ---
 
-# A lesson in approximation with computation
+# A lesson in approximation to a journey in computation
 
 > - How much exactly does flu shuffle its genome in the world? Is it important for switching viral hosts?
 > - Answered in Ma et. al., 2016 (PNAS).
