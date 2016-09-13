@@ -117,25 +117,71 @@ colortheme: wolverine
 - Cindy Y.: U Toronto, grad school
 - Mo C.: UC Berkeley, PhD EECS
 
-# Story 1: Thinking in Scales, Thinking at Scale
+---
 
-- "If a piece of chalk were to be completely converted to energy, how many days of power would that piece of chalk provide to Vancouver?"
-- "Do Pokemon height & weight combinations make sense for how they're drawn?"
+#
 
-# Story 1: Thinking in Scales, Thinking at Scale
+> You'll do just fine. :-)
 
-- How much exactly does flu shuffle its genome in the world? A lesson in teaching myself computation.
 
-# Story 2: Science as Measurement
+---
 
-- T1 Bamfield: "How long does it take a starfish to flip?"
-- T2 project: "Do traditional Chinese herbs have antibacterial properties?"
+# Question
 
-# Story 2: Science as Measurement
+> "According to Einstein's mass-energy equivalence, if a piece of chalk were to be completely converted to energy, how many days of power would that piece of chalk provide to Vancouver?"
 
-- Systematically measuring how mutations affect phenotype.
-  - Taking an engineering measurement approach in the life sciences.
-- How much viral drug resistance is out there?
+> - Pair or triple up.
+> - Feel free to check online for whatever data you need to assume.
+> - Don't Google the question.
+> - When you've got an answer, write it on the whiteboard, expressed in "number of days".
+> - Spend 5 minutes on this max.
+
+---
+
+# Lesson
+
+> Order of magnitude is more than accurate enough.
+
+- Think in scales, thinking at scale.
+- Approximations that answer the right question are better than precisely answering the wrong question.
+
+---
+
+# A lesson in approximation with computation
+
+> - How much exactly does flu shuffle its genome in the world? Is it important for switching viral hosts?
+> - Answered in Ma et. al., 2016 (PNAS).
+
+---
+
+# How would you solve these problems?
+
+> I just flipped that starfish over... How long do starfishes take to flip back over?
+
+> Are there outlier Pokemons? Do their height/weight combinations actually make sense?
+
+- Pair or triple up.
+- Take 5 minutes to outline a strategy for answering one of these questions. Specifically asnwer the question: what are you going to measure?
+- Share at the end.
+
+---
+
+# Science as measurement
+
+- T1 Bamfield: Starfish flipping.
+- T2 Measurement: Antimicrobial properties of traditional Chinese herb extracts.
+
+---
+
+# Science as Measurement
+
+- Taking an engineering approach to measurement in the life sciences.
+    - Systematically measuring how mutations affect phenotype.
+    - Deep learning algorithms to learn mapping from
+    - Modelling error in measurement and propagating through phenotype predictions.
+- Thinking at Scale: How much viral drug resistance is out there?
+
+---
 
 # Conclusion
 
