@@ -166,7 +166,7 @@ Let's have a taste of the coming year.
 > Are there outlier Pokemons? Do their height/weight combinations actually make sense?
 
 - Pair or triple up.
-- Take 10 minutes to outline a strategy for answering one of these questions. Specifically asnwer the question: what are you going to measure?
+- Take 10 minutes to outline a strategy for answering one of these questions. Specifically answer the question: what are you going to measure?
 - Share at the end.
 
 ---
@@ -178,14 +178,14 @@ Let's have a taste of the coming year.
 
 ---
 
-# Science as measurement
+# Science as measurement of the world
 
 > - T1 Bamfield: Starfish flipping.
 > - T2 Measurement: Antimicrobial properties of traditional Chinese herb extracts.
 
 ---
 
-# Science as Measurement
+# Science as measurement of the world
 
 > - Taking an engineering approach to measurement in the life sciences.
     - Systematically measuring how mutations affect phenotype.
