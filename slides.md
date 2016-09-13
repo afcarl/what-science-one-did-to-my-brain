@@ -180,6 +180,8 @@ Let's have a taste of the coming year.
 
 # Science as measurement of the world
 
+> The fundamental activity of science is quantitatively measuring or qualitatively describing the natural world.
+
 > - T1 Bamfield: Starfish flipping.
 > - T2 Measurement: Antimicrobial properties of traditional Chinese herb extracts.
 
