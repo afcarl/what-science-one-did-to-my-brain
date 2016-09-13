@@ -1,7 +1,10 @@
 ---
 title: What Science One did to my brain
-author: Eric J. Ma
-affiliation: MIT
+author:
+    - name: Eric J. Ma
+      affiliation: MIT
+theme: CambridgeUS
+colortheme: wolverine
 ---
 
 # Myself & Science One
