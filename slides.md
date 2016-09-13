@@ -7,6 +7,10 @@ theme: CambridgeUS
 colortheme: wolverine
 ---
 
+# Where are these slides?
+
+[http://github.com/ericmjl/what-science-one-did-to-my-brain](http://github.com/ericmjl/what-science-one-did-to-my-brain)
+
 # Poll
 
 - How many are scared you'll fail Science One?
