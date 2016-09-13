@@ -7,19 +7,17 @@ theme: CambridgeUS
 colortheme: wolverine
 ---
 
-# Where are these slides?
-
-On GitHub: https://github.com/ericmjl/what-science-one-did-to-my-brain
-
-Short URL: http://goo.gl/pkzv2t
-
 # Poll
 
 - How many are scared you'll fail Science One?
 
+---
+
 # Poll
 
 - How many are scared bad grades in Science One will cause you to fail in life?
+
+---
 
 # Science One & Beyond
 
@@ -129,18 +127,19 @@ Short URL: http://goo.gl/pkzv2t
 
 > You'll do just fine. :-)
 
+Let's have a taste of the coming year.
 
 ---
 
 # Question
 
-> "According to Einstein's mass-energy equivalence, if a piece of chalk were to be completely converted to energy, how many days of power would that piece of chalk provide to Vancouver?"
+> "According to Einstein's mass-energy equivalence, if a whiteboard marker were to be completely converted to energy, how many days of power would that piece of chalk provide to Vancouver?"
 
-> - Pair or triple up.
-> - Feel free to check online for whatever data you need to assume.
-> - Don't Google the question.
-> - When you've got an answer, write it on the whiteboard, expressed in "number of days".
-> - Spend 5 minutes on this max.
+- Pair or triple up.
+- Don't Google the question.
+- Feel free to check online for whatever data you need to assume.
+- When you've got an answer, write it on the whiteboard, expressed in "number of days".
+- Spend 10 minutes on this max. You can AMA.
 
 ---
 
@@ -167,7 +166,7 @@ Short URL: http://goo.gl/pkzv2t
 > Are there outlier Pokemons? Do their height/weight combinations actually make sense?
 
 - Pair or triple up.
-- Take 5 minutes to outline a strategy for answering one of these questions. Specifically asnwer the question: what are you going to measure?
+- Take 10 minutes to outline a strategy for answering one of these questions. Specifically asnwer the question: what are you going to measure?
 - Share at the end.
 
 ---
@@ -176,12 +175,6 @@ Short URL: http://goo.gl/pkzv2t
 
 - Go to the following URL: `http://goo.gl/94i0rq`
 - Enter as many height/weight combinations as you have/can.
-
----
-
-# Live code
-
-
 
 ---
 
@@ -202,7 +195,14 @@ Short URL: http://goo.gl/pkzv2t
 
 ---
 
-# Conclusion
+# Final Words
 
-- Participate, teach one another, learn from one another.
--
+- Participate.
+- Teach one another, learn from one another.
+- You'll do fine. `:-)`
+
+# Where are these slides?
+
+On GitHub: https://github.com/ericmjl/what-science-one-did-to-my-brain
+
+Short URL: http://goo.gl/pkzv2t
