@@ -85,7 +85,7 @@ colortheme: wolverine
 
 # Where are we now?
 
-![Phil: medical doctor](./images/phil-edge.jpg)
+![Phil: medical doctor, entrepreneurship](./images/phil-edge.jpg)
 
 ---
 
@@ -116,8 +116,8 @@ colortheme: wolverine
 # Where are we now?
 
 - Charles Z.: U Toronto, PhD Physics
-- Tiffany T.: Global Development, somewhere in Africa
-- Jacob B.: Twice my schoolmate: UBC & MIT, spoke last year
+- Tiffany T.: Global Development & Entrepreneurship, Tanzania (?)
+- Jacob B.: Twice my schoolmate: UBC & MIT, spoke last year @ SciOne
 - Cindy Y.: U Toronto, grad school
 - Mo C.: UC Berkeley, PhD EECS
 
