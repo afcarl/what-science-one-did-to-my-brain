@@ -17,6 +17,10 @@ colortheme: wolverine
 
 - How many are scared bad grades in Science One will cause you to fail in life?
 
+# My message is simple
+
+You'll have fun, you'll learn lots, you'll do fine.
+
 ---
 
 # Science One & Beyond
@@ -149,7 +153,6 @@ Let's have a taste of the coming year.
 > Order of magnitude is more than accurate enough.
 
 - Think in scales, thinking at scale.
--
 - Approximations that answer the right question are better than precisely answering the wrong question.
 
 ---
@@ -193,7 +196,7 @@ Let's have a taste of the coming year.
 
 > - Taking an engineering approach to measurement in the life sciences.
     - Systematically measuring how mutations affect phenotype.
-    - Deep learning algorithms to learn mapping from
+    - Deep learning algorithms to learn mapping from genotype to phenotype
     - Modelling error in measurement and propagating through phenotype predictions.
 > - Thinking at Scale: How much viral drug resistance is out there?
 
